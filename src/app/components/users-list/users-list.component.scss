@@ -1,0 +1,13 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    flex-grow: 1;
+
+    padding: 5rem 3rem;
+
+    .example-form-field {
+        width: 500px;
+    }
+}
